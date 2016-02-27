@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTMap.m \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTMap.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTConvert+MapKit.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Layout/Layout.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTComponent.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTMapAnnotation.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Views/RCTMapOverlay.h \
+  /Volumes/Data/Location/node_modules/react-native/React/Base/RCTUtils.h
