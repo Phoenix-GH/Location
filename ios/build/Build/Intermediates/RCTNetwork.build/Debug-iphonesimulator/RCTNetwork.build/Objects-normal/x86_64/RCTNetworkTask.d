@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/Location/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
-  /Volumes/Data/Location/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  /Users/andyjohansson/Location/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
+  /Users/andyjohansson/Location/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
