@@ -1,8 +1,3 @@
-     /**
-      * Sample React Native App
-      * https://github.com/facebook/react-native
-      */
-
      'use strict';
      import React, {
        AppRegistry,
@@ -12,9 +7,7 @@
        Text,
        View
      } from 'react-native';
-     var MOCKED_MOVIES_DATA = [
-       {title: 'Title', year: '2015', posters: {thumbnail: 'http://i.imgur.com/UePbdph.jpg'}},
-     ];
+
      var REQUEST_URL = 'https://raw.githubusercontent.com/facebook/react-native/master/docs/MoviesExample.json';
      var weatherStyles;
      class Location extends Component {
@@ -43,7 +36,6 @@
          (position) => { 
            var initialPosition = JSON.stringify(position); 
            this.setState({initialPosition}); 
-           
            fetch('http://api.openweathermap.org/data/2.5/weather/', {method: "POST", body:JSON.stringify(
                {lat: position.coords.latitude,
                lon: position.coords.longitude,
